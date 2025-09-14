@@ -1,0 +1,3092 @@
+[
+  {
+    "product_id": "FF001",
+    "name": "Fusion Dragon Sandwich",
+    "category": "Pizza",
+    "description": "Fusion Dragon Sandwich: tender with a kick chef-special.",
+    "ingredients": [
+      "beef patty",
+      "tomato",
+      "chicken",
+      "tofu",
+      "mozzarella",
+      "lime crema"
+    ],
+    "price": 15.85,
+    "calories": 400,
+    "prep_time": "18 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "quick"
+    ],
+    "allergens": [],
+    "popularity_score": 38,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Fusion Dragon Sandwich beef patty, tomato, chicken, tofu, mozzarella, lime crema",
+    "image_url": "https://picsum.photos/seed/FF001/400/300"
+  },
+  {
+    "product_id": "FF002",
+    "name": "Fire Cheese Burger",
+    "category": "Burgers",
+    "description": "Fire Cheese Burger: smoky chef-special with a kick.",
+    "ingredients": [
+      "cheddar",
+      "kimchi",
+      "beef patty",
+      "jalape\u00f1o",
+      "lime crema"
+    ],
+    "price": 15.16,
+    "calories": 498,
+    "prep_time": "16 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 83,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 2,
+    "image_prompt": "Fire Cheese Burger cheddar, kimchi, beef patty, jalape\u00f1o, lime crema",
+    "image_url": "https://picsum.photos/seed/FF002/400/300"
+  },
+  {
+    "product_id": "FF003",
+    "name": "Fusion Deluxe Tacos",
+    "category": "Tacos & Wraps",
+    "description": "Fusion Deluxe Tacos: tender handcrafted perfect for sharing.",
+    "ingredients": [
+      "tofu",
+      "mozzarella",
+      "kimchi",
+      "lettuce",
+      "chicken"
+    ],
+    "price": 19.75,
+    "calories": 388,
+    "prep_time": "17 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 44,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "Fusion Deluxe Tacos tofu, mozzarella, kimchi, lettuce, chicken",
+    "image_url": "https://picsum.photos/seed/FF003/400/300"
+  },
+  {
+    "product_id": "FF004",
+    "name": "Spicy BBQ Tacos",
+    "category": "Breakfast",
+    "description": "Spicy BBQ Tacos: tender with a kick smoky.",
+    "ingredients": [
+      "tofu",
+      "mozzarella",
+      "jalape\u00f1o",
+      "brioche bun",
+      "bacon"
+    ],
+    "price": 14.94,
+    "calories": 936,
+    "prep_time": "13 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "comfort"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 84,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "Spicy BBQ Tacos tofu, mozzarella, jalape\u00f1o, brioche bun, bacon",
+    "image_url": "https://picsum.photos/seed/FF004/400/300"
+  },
+  {
+    "product_id": "FF005",
+    "name": "Fusion BBQ Sandwich",
+    "category": "Beverages",
+    "description": "Fusion BBQ Sandwich: Bold flavors with a kick chef-special.",
+    "ingredients": [
+      "cheddar",
+      "chicken",
+      "brioche bun",
+      "bacon",
+      "tomato",
+      "jalape\u00f1o"
+    ],
+    "price": 19.95,
+    "calories": 291,
+    "prep_time": "8 mins",
+    "dietary_tags": [
+      "vegan",
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 97,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "Fusion BBQ Sandwich cheddar, chicken, brioche bun, bacon, tomato, jalape\u00f1o",
+    "image_url": "https://picsum.photos/seed/FF005/400/300"
+  },
+  {
+    "product_id": "FF006",
+    "name": "Zesty Deluxe Sandwich",
+    "category": "Beverages",
+    "description": "Zesty Deluxe Sandwich: tender handcrafted crispy.",
+    "ingredients": [
+      "tomato",
+      "mozzarella",
+      "kimchi"
+    ],
+    "price": 8.69,
+    "calories": 311,
+    "prep_time": "10 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "quick"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 79,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Zesty Deluxe Sandwich tomato, mozzarella, kimchi",
+    "image_url": "https://picsum.photos/seed/FF006/400/300"
+  },
+  {
+    "product_id": "FF007",
+    "name": "Zesty Dragon Sandwich",
+    "category": "Burgers",
+    "description": "Zesty Dragon Sandwich: crispy handcrafted with a kick.",
+    "ingredients": [
+      "cheddar",
+      "chicken",
+      "lettuce",
+      "jalape\u00f1o"
+    ],
+    "price": 9.18,
+    "calories": 169,
+    "prep_time": "20 mins",
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "mood_tags": [
+      "adventurous"
+    ],
+    "allergens": [],
+    "popularity_score": 80,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 9,
+    "image_prompt": "Zesty Dragon Sandwich cheddar, chicken, lettuce, jalape\u00f1o",
+    "image_url": "https://picsum.photos/seed/FF007/400/300"
+  },
+  {
+    "product_id": "FF008",
+    "name": "Fusion Garden Tacos",
+    "category": "Limited Time Specials",
+    "description": "Fusion Garden Tacos: tender Bold flavors chef-special.",
+    "ingredients": [
+      "chicken",
+      "tofu",
+      "lettuce",
+      "tomato",
+      "gochujang",
+      "beef patty"
+    ],
+    "price": 19.42,
+    "calories": 702,
+    "prep_time": "6 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "healthy",
+      "quick"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 39,
+    "chef_special": true,
+    "limited_time": true,
+    "spice_level": 6,
+    "image_prompt": "Fusion Garden Tacos chicken, tofu, lettuce, tomato, gochujang, beef patty",
+    "image_url": "https://picsum.photos/seed/FF008/400/300"
+  },
+  {
+    "product_id": "FF009",
+    "name": "Crispy Cheese Wrap",
+    "category": "Beverages",
+    "description": "Crispy Cheese Wrap: Bold flavors with a kick chef-special.",
+    "ingredients": [
+      "tofu",
+      "chicken",
+      "lettuce",
+      "mozzarella",
+      "brioche bun",
+      "gochujang"
+    ],
+    "price": 12.22,
+    "calories": 435,
+    "prep_time": "8 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "healthy"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 17,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Crispy Cheese Wrap tofu, chicken, lettuce, mozzarella, brioche bun, gochujang",
+    "image_url": "https://picsum.photos/seed/FF009/400/300"
+  },
+  {
+    "product_id": "FF010",
+    "name": "Zesty Dragon Burger",
+    "category": "Pizza",
+    "description": "Zesty Dragon Burger: tender handcrafted perfect for sharing.",
+    "ingredients": [
+      "beef patty",
+      "mozzarella",
+      "lime crema"
+    ],
+    "price": 7.06,
+    "calories": 699,
+    "prep_time": "20 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "healthy"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 71,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "Zesty Dragon Burger beef patty, mozzarella, lime crema",
+    "image_url": "https://picsum.photos/seed/FF010/400/300"
+  },
+  {
+    "product_id": "FF011",
+    "name": "Smoky BBQ Burger",
+    "category": "Burgers",
+    "description": "Smoky BBQ Burger: Bold flavors smoky tender.",
+    "ingredients": [
+      "tofu",
+      "beef patty",
+      "cheddar",
+      "lime crema",
+      "lettuce"
+    ],
+    "price": 10.05,
+    "calories": 549,
+    "prep_time": "10 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "party"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 17,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "Smoky BBQ Burger tofu, beef patty, cheddar, lime crema, lettuce",
+    "image_url": "https://picsum.photos/seed/FF011/400/300"
+  },
+  {
+    "product_id": "FF012",
+    "name": "Fusion Garden Pizza",
+    "category": "Fried Chicken",
+    "description": "Fusion Garden Pizza: smoky handcrafted with a kick.",
+    "ingredients": [
+      "brioche bun",
+      "mozzarella",
+      "cheddar"
+    ],
+    "price": 13.51,
+    "calories": 841,
+    "prep_time": "15 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "quick"
+    ],
+    "allergens": [],
+    "popularity_score": 40,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Fusion Garden Pizza brioche bun, mozzarella, cheddar",
+    "image_url": "https://picsum.photos/seed/FF012/400/300"
+  },
+  {
+    "product_id": "FF013",
+    "name": "Fire Ranch Pizza",
+    "category": "Sides & Appetizers",
+    "description": "Fire Ranch Pizza: smoky handcrafted tender.",
+    "ingredients": [
+      "lime crema",
+      "kimchi",
+      "pork",
+      "gochujang"
+    ],
+    "price": 9.05,
+    "calories": 919,
+    "prep_time": "14 mins",
+    "dietary_tags": [
+      "vegan"
+    ],
+    "mood_tags": [
+      "adventurous"
+    ],
+    "allergens": [],
+    "popularity_score": 88,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Fire Ranch Pizza lime crema, kimchi, pork, gochujang",
+    "image_url": "https://picsum.photos/seed/FF013/400/300"
+  },
+  {
+    "product_id": "FF014",
+    "name": "Smoky BBQ Tacos",
+    "category": "Breakfast",
+    "description": "Smoky BBQ Tacos: smoky perfect for sharing tender.",
+    "ingredients": [
+      "kimchi",
+      "tomato",
+      "cheddar",
+      "tofu"
+    ],
+    "price": 14.68,
+    "calories": 717,
+    "prep_time": "13 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 16,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Smoky BBQ Tacos kimchi, tomato, cheddar, tofu",
+    "image_url": "https://picsum.photos/seed/FF014/400/300"
+  },
+  {
+    "product_id": "FF015",
+    "name": "Fusion Dragon Pizza",
+    "category": "Sides & Appetizers",
+    "description": "Fusion Dragon Pizza: crispy tender handcrafted.",
+    "ingredients": [
+      "chicken",
+      "bacon",
+      "pork"
+    ],
+    "price": 4.05,
+    "calories": 939,
+    "prep_time": "6 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "quick",
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 49,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Fusion Dragon Pizza chicken, bacon, pork",
+    "image_url": "https://picsum.photos/seed/FF015/400/300"
+  },
+  {
+    "product_id": "FF016",
+    "name": "Fire Ranch Bowl",
+    "category": "Burgers",
+    "description": "Fire Ranch Bowl: with a kick chef-special tender.",
+    "ingredients": [
+      "lettuce",
+      "tomato",
+      "pork",
+      "brioche bun"
+    ],
+    "price": 7.35,
+    "calories": 405,
+    "prep_time": "12 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "comfort"
+    ],
+    "allergens": [],
+    "popularity_score": 44,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 5,
+    "image_prompt": "Fire Ranch Bowl lettuce, tomato, pork, brioche bun",
+    "image_url": "https://picsum.photos/seed/FF016/400/300"
+  },
+  {
+    "product_id": "FF017",
+    "name": "Classic BBQ Burger",
+    "category": "Desserts",
+    "description": "Classic BBQ Burger: smoky crispy with a kick.",
+    "ingredients": [
+      "mozzarella",
+      "tofu",
+      "brioche bun"
+    ],
+    "price": 17.73,
+    "calories": 377,
+    "prep_time": "17 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 96,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Classic BBQ Burger mozzarella, tofu, brioche bun",
+    "image_url": "https://picsum.photos/seed/FF017/400/300"
+  },
+  {
+    "product_id": "FF018",
+    "name": "Classic Dragon Bowl",
+    "category": "Burgers",
+    "description": "Classic Dragon Bowl: chef-special Bold flavors smoky.",
+    "ingredients": [
+      "cheddar",
+      "lime crema",
+      "chicken",
+      "brioche bun",
+      "tomato",
+      "tofu"
+    ],
+    "price": 18.02,
+    "calories": 417,
+    "prep_time": "11 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "indulgent",
+      "party"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 56,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Classic Dragon Bowl cheddar, lime crema, chicken, brioche bun, tomato, tofu",
+    "image_url": "https://picsum.photos/seed/FF018/400/300"
+  },
+  {
+    "product_id": "FF019",
+    "name": "Smoky Deluxe Tacos",
+    "category": "Beverages",
+    "description": "Smoky Deluxe Tacos: smoky tender perfect for sharing.",
+    "ingredients": [
+      "tofu",
+      "brioche bun",
+      "mozzarella",
+      "lettuce"
+    ],
+    "price": 9.01,
+    "calories": 277,
+    "prep_time": "5 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "party",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 48,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 9,
+    "image_prompt": "Smoky Deluxe Tacos tofu, brioche bun, mozzarella, lettuce",
+    "image_url": "https://picsum.photos/seed/FF019/400/300"
+  },
+  {
+    "product_id": "FF020",
+    "name": "Smoky Garden Pizza",
+    "category": "Limited Time Specials",
+    "description": "Smoky Garden Pizza: handcrafted chef-special perfect for sharing.",
+    "ingredients": [
+      "kimchi",
+      "lime crema",
+      "mozzarella"
+    ],
+    "price": 14.47,
+    "calories": 626,
+    "prep_time": "14 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [],
+    "popularity_score": 38,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 9,
+    "image_prompt": "Smoky Garden Pizza kimchi, lime crema, mozzarella",
+    "image_url": "https://picsum.photos/seed/FF020/400/300"
+  },
+  {
+    "product_id": "FF021",
+    "name": "Zesty Cheese Tacos",
+    "category": "Burgers",
+    "description": "Zesty Cheese Tacos: crispy chef-special with a kick.",
+    "ingredients": [
+      "jalape\u00f1o",
+      "brioche bun",
+      "tofu",
+      "pork",
+      "beef patty",
+      "chicken"
+    ],
+    "price": 19.73,
+    "calories": 775,
+    "prep_time": "19 mins",
+    "dietary_tags": [
+      "vegan",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 16,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "Zesty Cheese Tacos jalape\u00f1o, brioche bun, tofu, pork, beef patty, chicken",
+    "image_url": "https://picsum.photos/seed/FF021/400/300"
+  },
+  {
+    "product_id": "FF022",
+    "name": "Classic Ranch Bowl",
+    "category": "Pizza",
+    "description": "Classic Ranch Bowl: smoky chef-special perfect for sharing.",
+    "ingredients": [
+      "tomato",
+      "lime crema",
+      "jalape\u00f1o",
+      "pork",
+      "bacon",
+      "cheddar"
+    ],
+    "price": 6.12,
+    "calories": 625,
+    "prep_time": "20 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "quick",
+      "party"
+    ],
+    "allergens": [],
+    "popularity_score": 90,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Classic Ranch Bowl tomato, lime crema, jalape\u00f1o, pork, bacon, cheddar",
+    "image_url": "https://picsum.photos/seed/FF022/400/300"
+  },
+  {
+    "product_id": "FF023",
+    "name": "Fusion Cheese Wrap",
+    "category": "Sides & Appetizers",
+    "description": "Fusion Cheese Wrap: Bold flavors handcrafted tender.",
+    "ingredients": [
+      "chicken",
+      "brioche bun",
+      "lettuce",
+      "gochujang"
+    ],
+    "price": 8.34,
+    "calories": 477,
+    "prep_time": "17 mins",
+    "dietary_tags": [
+      "vegan",
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 84,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 3,
+    "image_prompt": "Fusion Cheese Wrap chicken, brioche bun, lettuce, gochujang",
+    "image_url": "https://picsum.photos/seed/FF023/400/300"
+  },
+  {
+    "product_id": "FF024",
+    "name": "Crispy BBQ Bowl",
+    "category": "Limited Time Specials",
+    "description": "Crispy BBQ Bowl: chef-special with a kick handcrafted.",
+    "ingredients": [
+      "kimchi",
+      "brioche bun",
+      "jalape\u00f1o",
+      "beef patty"
+    ],
+    "price": 11.62,
+    "calories": 510,
+    "prep_time": "19 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "healthy"
+    ],
+    "allergens": [],
+    "popularity_score": 26,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 6,
+    "image_prompt": "Crispy BBQ Bowl kimchi, brioche bun, jalape\u00f1o, beef patty",
+    "image_url": "https://picsum.photos/seed/FF024/400/300"
+  },
+  {
+    "product_id": "FF025",
+    "name": "Classic Cheese Pizza",
+    "category": "Desserts",
+    "description": "Classic Cheese Pizza: handcrafted tender Bold flavors.",
+    "ingredients": [
+      "jalape\u00f1o",
+      "gochujang",
+      "lettuce",
+      "brioche bun"
+    ],
+    "price": 13.02,
+    "calories": 177,
+    "prep_time": "6 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "healthy",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 54,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 9,
+    "image_prompt": "Classic Cheese Pizza jalape\u00f1o, gochujang, lettuce, brioche bun",
+    "image_url": "https://picsum.photos/seed/FF025/400/300"
+  },
+  {
+    "product_id": "FF026",
+    "name": "Spicy Garden Sandwich",
+    "category": "Burgers",
+    "description": "Spicy Garden Sandwich: handcrafted chef-special perfect for sharing.",
+    "ingredients": [
+      "jalape\u00f1o",
+      "bacon",
+      "kimchi",
+      "gochujang"
+    ],
+    "price": 19.18,
+    "calories": 354,
+    "prep_time": "14 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "quick"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 23,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Spicy Garden Sandwich jalape\u00f1o, bacon, kimchi, gochujang",
+    "image_url": "https://picsum.photos/seed/FF026/400/300"
+  },
+  {
+    "product_id": "FF027",
+    "name": "Zesty Dragon Pizza",
+    "category": "Limited Time Specials",
+    "description": "Zesty Dragon Pizza: chef-special with a kick crispy.",
+    "ingredients": [
+      "tomato",
+      "mozzarella",
+      "cheddar",
+      "chicken",
+      "bacon"
+    ],
+    "price": 18.52,
+    "calories": 534,
+    "prep_time": "7 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 74,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 10,
+    "image_prompt": "Zesty Dragon Pizza tomato, mozzarella, cheddar, chicken, bacon",
+    "image_url": "https://picsum.photos/seed/FF027/400/300"
+  },
+  {
+    "product_id": "FF028",
+    "name": "Zesty Ranch Burger",
+    "category": "Desserts",
+    "description": "Zesty Ranch Burger: smoky tender handcrafted.",
+    "ingredients": [
+      "jalape\u00f1o",
+      "brioche bun",
+      "bacon",
+      "cheddar",
+      "kimchi",
+      "gochujang"
+    ],
+    "price": 5.68,
+    "calories": 520,
+    "prep_time": "19 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "quick",
+      "party"
+    ],
+    "allergens": [],
+    "popularity_score": 82,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Zesty Ranch Burger jalape\u00f1o, brioche bun, bacon, cheddar, kimchi, gochujang",
+    "image_url": "https://picsum.photos/seed/FF028/400/300"
+  },
+  {
+    "product_id": "FF029",
+    "name": "Crispy Garden Tacos",
+    "category": "Burgers",
+    "description": "Crispy Garden Tacos: perfect for sharing with a kick chef-special.",
+    "ingredients": [
+      "chicken",
+      "tofu",
+      "bacon",
+      "brioche bun"
+    ],
+    "price": 17.61,
+    "calories": 336,
+    "prep_time": "20 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "quick",
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 67,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Crispy Garden Tacos chicken, tofu, bacon, brioche bun",
+    "image_url": "https://picsum.photos/seed/FF029/400/300"
+  },
+  {
+    "product_id": "FF030",
+    "name": "Classic Dragon Bowl",
+    "category": "Tacos & Wraps",
+    "description": "Classic Dragon Bowl: crispy handcrafted chef-special.",
+    "ingredients": [
+      "kimchi",
+      "tomato",
+      "tofu",
+      "chicken",
+      "bacon"
+    ],
+    "price": 15.06,
+    "calories": 463,
+    "prep_time": "20 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "indulgent",
+      "healthy"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 45,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 6,
+    "image_prompt": "Classic Dragon Bowl kimchi, tomato, tofu, chicken, bacon",
+    "image_url": "https://picsum.photos/seed/FF030/400/300"
+  },
+  {
+    "product_id": "FF031",
+    "name": "Smoky Ranch Bowl",
+    "category": "Breakfast",
+    "description": "Smoky Ranch Bowl: perfect for sharing Bold flavors chef-special.",
+    "ingredients": [
+      "beef patty",
+      "lime crema",
+      "kimchi"
+    ],
+    "price": 8.52,
+    "calories": 252,
+    "prep_time": "14 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 70,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 9,
+    "image_prompt": "Smoky Ranch Bowl beef patty, lime crema, kimchi",
+    "image_url": "https://picsum.photos/seed/FF031/400/300"
+  },
+  {
+    "product_id": "FF032",
+    "name": "Spicy Dragon Sandwich",
+    "category": "Burgers",
+    "description": "Spicy Dragon Sandwich: chef-special smoky perfect for sharing.",
+    "ingredients": [
+      "lettuce",
+      "cheddar",
+      "kimchi",
+      "chicken"
+    ],
+    "price": 19.05,
+    "calories": 639,
+    "prep_time": "12 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "vegan",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 76,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "Spicy Dragon Sandwich lettuce, cheddar, kimchi, chicken",
+    "image_url": "https://picsum.photos/seed/FF032/400/300"
+  },
+  {
+    "product_id": "FF033",
+    "name": "Spicy Ranch Sandwich",
+    "category": "Sides & Appetizers",
+    "description": "Spicy Ranch Sandwich: handcrafted perfect for sharing Bold flavors.",
+    "ingredients": [
+      "kimchi",
+      "mozzarella",
+      "chicken",
+      "pork"
+    ],
+    "price": 19.83,
+    "calories": 462,
+    "prep_time": "18 mins",
+    "dietary_tags": [
+      "vegan",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 67,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 9,
+    "image_prompt": "Spicy Ranch Sandwich kimchi, mozzarella, chicken, pork",
+    "image_url": "https://picsum.photos/seed/FF033/400/300"
+  },
+  {
+    "product_id": "FF034",
+    "name": "Spicy BBQ Tacos",
+    "category": "Burgers",
+    "description": "Spicy BBQ Tacos: handcrafted Bold flavors perfect for sharing.",
+    "ingredients": [
+      "lime crema",
+      "tofu",
+      "mozzarella"
+    ],
+    "price": 8.6,
+    "calories": 439,
+    "prep_time": "14 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "healthy"
+    ],
+    "allergens": [],
+    "popularity_score": 86,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "Spicy BBQ Tacos lime crema, tofu, mozzarella",
+    "image_url": "https://picsum.photos/seed/FF034/400/300"
+  },
+  {
+    "product_id": "FF035",
+    "name": "Fusion BBQ Burger",
+    "category": "Sides & Appetizers",
+    "description": "Fusion BBQ Burger: handcrafted perfect for sharing with a kick.",
+    "ingredients": [
+      "brioche bun",
+      "bacon",
+      "gochujang"
+    ],
+    "price": 5.98,
+    "calories": 855,
+    "prep_time": "5 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "quick"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 96,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Fusion BBQ Burger brioche bun, bacon, gochujang",
+    "image_url": "https://picsum.photos/seed/FF035/400/300"
+  },
+  {
+    "product_id": "FF036",
+    "name": "Zesty Ranch Pizza",
+    "category": "Fried Chicken",
+    "description": "Zesty Ranch Pizza: chef-special with a kick tender.",
+    "ingredients": [
+      "brioche bun",
+      "gochujang",
+      "lettuce",
+      "mozzarella",
+      "chicken"
+    ],
+    "price": 12.29,
+    "calories": 602,
+    "prep_time": "14 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "adventurous",
+      "healthy"
+    ],
+    "allergens": [],
+    "popularity_score": 94,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Zesty Ranch Pizza brioche bun, gochujang, lettuce, mozzarella, chicken",
+    "image_url": "https://picsum.photos/seed/FF036/400/300"
+  },
+  {
+    "product_id": "FF037",
+    "name": "Smoky Cheese Burger",
+    "category": "Breakfast",
+    "description": "Smoky Cheese Burger: tender crispy smoky.",
+    "ingredients": [
+      "brioche bun",
+      "beef patty",
+      "tofu",
+      "lime crema",
+      "gochujang",
+      "jalape\u00f1o"
+    ],
+    "price": 11.27,
+    "calories": 472,
+    "prep_time": "9 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [],
+    "popularity_score": 46,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Smoky Cheese Burger brioche bun, beef patty, tofu, lime crema, gochujang, jalape\u00f1o",
+    "image_url": "https://picsum.photos/seed/FF037/400/300"
+  },
+  {
+    "product_id": "FF038",
+    "name": "Zesty Ranch Wrap",
+    "category": "Pizza",
+    "description": "Zesty Ranch Wrap: smoky perfect for sharing with a kick.",
+    "ingredients": [
+      "jalape\u00f1o",
+      "chicken",
+      "mozzarella"
+    ],
+    "price": 19.56,
+    "calories": 773,
+    "prep_time": "13 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "comfort"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 63,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Zesty Ranch Wrap jalape\u00f1o, chicken, mozzarella",
+    "image_url": "https://picsum.photos/seed/FF038/400/300"
+  },
+  {
+    "product_id": "FF039",
+    "name": "Smoky BBQ Sandwich",
+    "category": "Tacos & Wraps",
+    "description": "Smoky BBQ Sandwich: perfect for sharing chef-special handcrafted.",
+    "ingredients": [
+      "gochujang",
+      "lettuce",
+      "lime crema",
+      "kimchi",
+      "beef patty",
+      "mozzarella"
+    ],
+    "price": 12.81,
+    "calories": 542,
+    "prep_time": "19 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 78,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Smoky BBQ Sandwich gochujang, lettuce, lime crema, kimchi, beef patty, mozzarella",
+    "image_url": "https://picsum.photos/seed/FF039/400/300"
+  },
+  {
+    "product_id": "FF040",
+    "name": "Fire Ranch Sandwich",
+    "category": "Breakfast",
+    "description": "Fire Ranch Sandwich: with a kick chef-special Bold flavors.",
+    "ingredients": [
+      "bacon",
+      "lettuce",
+      "brioche bun",
+      "tomato",
+      "pork",
+      "jalape\u00f1o"
+    ],
+    "price": 11.28,
+    "calories": 479,
+    "prep_time": "19 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 22,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 6,
+    "image_prompt": "Fire Ranch Sandwich bacon, lettuce, brioche bun, tomato, pork, jalape\u00f1o",
+    "image_url": "https://picsum.photos/seed/FF040/400/300"
+  },
+  {
+    "product_id": "FF041",
+    "name": "Smoky Deluxe Wrap",
+    "category": "Fried Chicken",
+    "description": "Smoky Deluxe Wrap: Bold flavors smoky perfect for sharing.",
+    "ingredients": [
+      "tomato",
+      "mozzarella",
+      "lime crema",
+      "brioche bun",
+      "gochujang"
+    ],
+    "price": 17.92,
+    "calories": 308,
+    "prep_time": "12 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "party",
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 90,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 6,
+    "image_prompt": "Smoky Deluxe Wrap tomato, mozzarella, lime crema, brioche bun, gochujang",
+    "image_url": "https://picsum.photos/seed/FF041/400/300"
+  },
+  {
+    "product_id": "FF042",
+    "name": "Crispy Ranch Tacos",
+    "category": "Tacos & Wraps",
+    "description": "Crispy Ranch Tacos: chef-special smoky with a kick.",
+    "ingredients": [
+      "lettuce",
+      "beef patty",
+      "kimchi",
+      "gochujang",
+      "mozzarella"
+    ],
+    "price": 10.93,
+    "calories": 250,
+    "prep_time": "10 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "party"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 31,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Crispy Ranch Tacos lettuce, beef patty, kimchi, gochujang, mozzarella",
+    "image_url": "https://picsum.photos/seed/FF042/400/300"
+  },
+  {
+    "product_id": "FF043",
+    "name": "Classic Garden Pizza",
+    "category": "Desserts",
+    "description": "Classic Garden Pizza: chef-special with a kick crispy.",
+    "ingredients": [
+      "kimchi",
+      "mozzarella",
+      "lime crema",
+      "pork",
+      "chicken",
+      "jalape\u00f1o"
+    ],
+    "price": 14.92,
+    "calories": 659,
+    "prep_time": "19 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "party",
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 48,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 9,
+    "image_prompt": "Classic Garden Pizza kimchi, mozzarella, lime crema, pork, chicken, jalape\u00f1o",
+    "image_url": "https://picsum.photos/seed/FF043/400/300"
+  },
+  {
+    "product_id": "FF044",
+    "name": "Zesty BBQ Tacos",
+    "category": "Salads",
+    "description": "Zesty BBQ Tacos: with a kick handcrafted perfect for sharing.",
+    "ingredients": [
+      "cheddar",
+      "bacon",
+      "jalape\u00f1o"
+    ],
+    "price": 7.79,
+    "calories": 735,
+    "prep_time": "11 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "indulgent",
+      "adventurous"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 89,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Zesty BBQ Tacos cheddar, bacon, jalape\u00f1o",
+    "image_url": "https://picsum.photos/seed/FF044/400/300"
+  },
+  {
+    "product_id": "FF045",
+    "name": "Spicy Garden Pizza",
+    "category": "Fried Chicken",
+    "description": "Spicy Garden Pizza: smoky chef-special handcrafted.",
+    "ingredients": [
+      "gochujang",
+      "bacon",
+      "brioche bun",
+      "pork",
+      "tofu"
+    ],
+    "price": 5.54,
+    "calories": 792,
+    "prep_time": "13 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 71,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 10,
+    "image_prompt": "Spicy Garden Pizza gochujang, bacon, brioche bun, pork, tofu",
+    "image_url": "https://picsum.photos/seed/FF045/400/300"
+  },
+  {
+    "product_id": "FF046",
+    "name": "Classic Garden Burger",
+    "category": "Beverages",
+    "description": "Classic Garden Burger: perfect for sharing crispy with a kick.",
+    "ingredients": [
+      "lettuce",
+      "brioche bun",
+      "beef patty"
+    ],
+    "price": 11.48,
+    "calories": 227,
+    "prep_time": "13 mins",
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "mood_tags": [
+      "quick",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 84,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Classic Garden Burger lettuce, brioche bun, beef patty",
+    "image_url": "https://picsum.photos/seed/FF046/400/300"
+  },
+  {
+    "product_id": "FF047",
+    "name": "Classic Deluxe Wrap",
+    "category": "Beverages",
+    "description": "Classic Deluxe Wrap: handcrafted perfect for sharing Bold flavors.",
+    "ingredients": [
+      "mozzarella",
+      "jalape\u00f1o",
+      "bacon"
+    ],
+    "price": 14.79,
+    "calories": 632,
+    "prep_time": "6 mins",
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [],
+    "popularity_score": 48,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Classic Deluxe Wrap mozzarella, jalape\u00f1o, bacon",
+    "image_url": "https://picsum.photos/seed/FF047/400/300"
+  },
+  {
+    "product_id": "FF048",
+    "name": "Crispy BBQ Burger",
+    "category": "Tacos & Wraps",
+    "description": "Crispy BBQ Burger: with a kick handcrafted tender.",
+    "ingredients": [
+      "tomato",
+      "jalape\u00f1o",
+      "cheddar"
+    ],
+    "price": 6.16,
+    "calories": 614,
+    "prep_time": "19 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "healthy"
+    ],
+    "allergens": [],
+    "popularity_score": 40,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "Crispy BBQ Burger tomato, jalape\u00f1o, cheddar",
+    "image_url": "https://picsum.photos/seed/FF048/400/300"
+  },
+  {
+    "product_id": "FF049",
+    "name": "Spicy Ranch Sandwich",
+    "category": "Beverages",
+    "description": "Spicy Ranch Sandwich: tender Bold flavors smoky.",
+    "ingredients": [
+      "beef patty",
+      "lettuce",
+      "gochujang"
+    ],
+    "price": 18.42,
+    "calories": 810,
+    "prep_time": "11 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "comfort"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 85,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "Spicy Ranch Sandwich beef patty, lettuce, gochujang",
+    "image_url": "https://picsum.photos/seed/FF049/400/300"
+  },
+  {
+    "product_id": "FF050",
+    "name": "Zesty Ranch Sandwich",
+    "category": "Beverages",
+    "description": "Zesty Ranch Sandwich: with a kick Bold flavors handcrafted.",
+    "ingredients": [
+      "pork",
+      "beef patty",
+      "gochujang"
+    ],
+    "price": 16.61,
+    "calories": 760,
+    "prep_time": "13 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "comfort",
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 16,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "Zesty Ranch Sandwich pork, beef patty, gochujang",
+    "image_url": "https://picsum.photos/seed/FF050/400/300"
+  },
+  {
+    "product_id": "FF051",
+    "name": "Zesty Cheese Wrap",
+    "category": "Pizza",
+    "description": "Zesty Cheese Wrap: handcrafted tender with a kick.",
+    "ingredients": [
+      "jalape\u00f1o",
+      "mozzarella",
+      "beef patty",
+      "bacon",
+      "tomato"
+    ],
+    "price": 11.61,
+    "calories": 946,
+    "prep_time": "19 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 19,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Zesty Cheese Wrap jalape\u00f1o, mozzarella, beef patty, bacon, tomato",
+    "image_url": "https://picsum.photos/seed/FF051/400/300"
+  },
+  {
+    "product_id": "FF052",
+    "name": "Crispy Cheese Tacos",
+    "category": "Fried Chicken",
+    "description": "Crispy Cheese Tacos: chef-special crispy tender.",
+    "ingredients": [
+      "chicken",
+      "lettuce",
+      "bacon",
+      "tomato",
+      "lime crema",
+      "tofu"
+    ],
+    "price": 6.01,
+    "calories": 789,
+    "prep_time": "17 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "healthy",
+      "quick"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 63,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Crispy Cheese Tacos chicken, lettuce, bacon, tomato, lime crema, tofu",
+    "image_url": "https://picsum.photos/seed/FF052/400/300"
+  },
+  {
+    "product_id": "FF053",
+    "name": "Fusion BBQ Bowl",
+    "category": "Beverages",
+    "description": "Fusion BBQ Bowl: handcrafted tender crispy.",
+    "ingredients": [
+      "lime crema",
+      "beef patty",
+      "cheddar",
+      "tomato"
+    ],
+    "price": 8.07,
+    "calories": 306,
+    "prep_time": "18 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 16,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 10,
+    "image_prompt": "Fusion BBQ Bowl lime crema, beef patty, cheddar, tomato",
+    "image_url": "https://picsum.photos/seed/FF053/400/300"
+  },
+  {
+    "product_id": "FF054",
+    "name": "Fusion Deluxe Bowl",
+    "category": "Beverages",
+    "description": "Fusion Deluxe Bowl: Bold flavors smoky with a kick.",
+    "ingredients": [
+      "lettuce",
+      "brioche bun",
+      "lime crema",
+      "cheddar"
+    ],
+    "price": 13.24,
+    "calories": 367,
+    "prep_time": "13 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 13,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Fusion Deluxe Bowl lettuce, brioche bun, lime crema, cheddar",
+    "image_url": "https://picsum.photos/seed/FF054/400/300"
+  },
+  {
+    "product_id": "FF055",
+    "name": "Spicy BBQ Pizza",
+    "category": "Sides & Appetizers",
+    "description": "Spicy BBQ Pizza: with a kick chef-special smoky.",
+    "ingredients": [
+      "brioche bun",
+      "tomato",
+      "jalape\u00f1o",
+      "gochujang"
+    ],
+    "price": 9.61,
+    "calories": 335,
+    "prep_time": "7 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 16,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 5,
+    "image_prompt": "Spicy BBQ Pizza brioche bun, tomato, jalape\u00f1o, gochujang",
+    "image_url": "https://picsum.photos/seed/FF055/400/300"
+  },
+  {
+    "product_id": "FF056",
+    "name": "Fusion Deluxe Pizza",
+    "category": "Burgers",
+    "description": "Fusion Deluxe Pizza: Bold flavors handcrafted tender.",
+    "ingredients": [
+      "chicken",
+      "kimchi",
+      "mozzarella",
+      "bacon",
+      "cheddar",
+      "jalape\u00f1o"
+    ],
+    "price": 5.3,
+    "calories": 603,
+    "prep_time": "6 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 10,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 10,
+    "image_prompt": "Fusion Deluxe Pizza chicken, kimchi, mozzarella, bacon, cheddar, jalape\u00f1o",
+    "image_url": "https://picsum.photos/seed/FF056/400/300"
+  },
+  {
+    "product_id": "FF057",
+    "name": "Fire Cheese Burger",
+    "category": "Fried Chicken",
+    "description": "Fire Cheese Burger: with a kick smoky tender.",
+    "ingredients": [
+      "chicken",
+      "brioche bun",
+      "bacon",
+      "beef patty",
+      "lettuce"
+    ],
+    "price": 8.62,
+    "calories": 272,
+    "prep_time": "17 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "quick"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 100,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "Fire Cheese Burger chicken, brioche bun, bacon, beef patty, lettuce",
+    "image_url": "https://picsum.photos/seed/FF057/400/300"
+  },
+  {
+    "product_id": "FF058",
+    "name": "Crispy Garden Burger",
+    "category": "Desserts",
+    "description": "Crispy Garden Burger: chef-special perfect for sharing crispy.",
+    "ingredients": [
+      "tofu",
+      "brioche bun",
+      "cheddar"
+    ],
+    "price": 19.45,
+    "calories": 325,
+    "prep_time": "15 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "healthy"
+    ],
+    "allergens": [],
+    "popularity_score": 38,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Crispy Garden Burger tofu, brioche bun, cheddar",
+    "image_url": "https://picsum.photos/seed/FF058/400/300"
+  },
+  {
+    "product_id": "FF059",
+    "name": "Spicy Garden Tacos",
+    "category": "Breakfast",
+    "description": "Spicy Garden Tacos: handcrafted perfect for sharing with a kick.",
+    "ingredients": [
+      "pork",
+      "kimchi",
+      "tofu"
+    ],
+    "price": 5.81,
+    "calories": 672,
+    "prep_time": "20 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 69,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 10,
+    "image_prompt": "Spicy Garden Tacos pork, kimchi, tofu",
+    "image_url": "https://picsum.photos/seed/FF059/400/300"
+  },
+  {
+    "product_id": "FF060",
+    "name": "Classic BBQ Sandwich",
+    "category": "Salads",
+    "description": "Classic BBQ Sandwich: Bold flavors crispy smoky.",
+    "ingredients": [
+      "jalape\u00f1o",
+      "tomato",
+      "mozzarella"
+    ],
+    "price": 18.78,
+    "calories": 728,
+    "prep_time": "7 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "healthy"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 49,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 10,
+    "image_prompt": "Classic BBQ Sandwich jalape\u00f1o, tomato, mozzarella",
+    "image_url": "https://picsum.photos/seed/FF060/400/300"
+  },
+  {
+    "product_id": "FF061",
+    "name": "Spicy Dragon Wrap",
+    "category": "Beverages",
+    "description": "Spicy Dragon Wrap: handcrafted chef-special crispy.",
+    "ingredients": [
+      "gochujang",
+      "cheddar",
+      "jalape\u00f1o",
+      "lime crema"
+    ],
+    "price": 5.22,
+    "calories": 242,
+    "prep_time": "7 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "healthy"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 74,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 4,
+    "image_prompt": "Spicy Dragon Wrap gochujang, cheddar, jalape\u00f1o, lime crema",
+    "image_url": "https://picsum.photos/seed/FF061/400/300"
+  },
+  {
+    "product_id": "FF062",
+    "name": "Classic Dragon Pizza",
+    "category": "Salads",
+    "description": "Classic Dragon Pizza: handcrafted smoky with a kick.",
+    "ingredients": [
+      "lettuce",
+      "mozzarella",
+      "tomato"
+    ],
+    "price": 12.38,
+    "calories": 774,
+    "prep_time": "17 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "party",
+      "quick"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 46,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Classic Dragon Pizza lettuce, mozzarella, tomato",
+    "image_url": "https://picsum.photos/seed/FF062/400/300"
+  },
+  {
+    "product_id": "FF063",
+    "name": "Smoky BBQ Tacos",
+    "category": "Limited Time Specials",
+    "description": "Smoky BBQ Tacos: handcrafted with a kick chef-special.",
+    "ingredients": [
+      "kimchi",
+      "lime crema",
+      "brioche bun"
+    ],
+    "price": 9.32,
+    "calories": 746,
+    "prep_time": "18 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "quick"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 75,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "Smoky BBQ Tacos kimchi, lime crema, brioche bun",
+    "image_url": "https://picsum.photos/seed/FF063/400/300"
+  },
+  {
+    "product_id": "FF064",
+    "name": "Spicy Garden Wrap",
+    "category": "Fried Chicken",
+    "description": "Spicy Garden Wrap: crispy handcrafted chef-special.",
+    "ingredients": [
+      "mozzarella",
+      "gochujang",
+      "cheddar"
+    ],
+    "price": 9.46,
+    "calories": 934,
+    "prep_time": "10 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "quick"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 66,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "Spicy Garden Wrap mozzarella, gochujang, cheddar",
+    "image_url": "https://picsum.photos/seed/FF064/400/300"
+  },
+  {
+    "product_id": "FF065",
+    "name": "Crispy Ranch Tacos",
+    "category": "Tacos & Wraps",
+    "description": "Crispy Ranch Tacos: crispy chef-special perfect for sharing.",
+    "ingredients": [
+      "jalape\u00f1o",
+      "lettuce",
+      "kimchi",
+      "brioche bun",
+      "lime crema",
+      "cheddar"
+    ],
+    "price": 13.76,
+    "calories": 920,
+    "prep_time": "6 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "comfort",
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 92,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Crispy Ranch Tacos jalape\u00f1o, lettuce, kimchi, brioche bun, lime crema, cheddar",
+    "image_url": "https://picsum.photos/seed/FF065/400/300"
+  },
+  {
+    "product_id": "FF066",
+    "name": "Classic Ranch Wrap",
+    "category": "Pizza",
+    "description": "Classic Ranch Wrap: handcrafted crispy perfect for sharing.",
+    "ingredients": [
+      "gochujang",
+      "beef patty",
+      "brioche bun",
+      "lettuce",
+      "bacon",
+      "lime crema"
+    ],
+    "price": 17.61,
+    "calories": 441,
+    "prep_time": "5 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "comfort"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 50,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "Classic Ranch Wrap gochujang, beef patty, brioche bun, lettuce, bacon, lime crema",
+    "image_url": "https://picsum.photos/seed/FF066/400/300"
+  },
+  {
+    "product_id": "FF067",
+    "name": "Spicy Ranch Sandwich",
+    "category": "Beverages",
+    "description": "Spicy Ranch Sandwich: chef-special Bold flavors crispy.",
+    "ingredients": [
+      "chicken",
+      "beef patty",
+      "kimchi"
+    ],
+    "price": 6.19,
+    "calories": 443,
+    "prep_time": "12 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "healthy",
+      "quick"
+    ],
+    "allergens": [],
+    "popularity_score": 48,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "Spicy Ranch Sandwich chicken, beef patty, kimchi",
+    "image_url": "https://picsum.photos/seed/FF067/400/300"
+  },
+  {
+    "product_id": "FF068",
+    "name": "Spicy Deluxe Bowl",
+    "category": "Limited Time Specials",
+    "description": "Spicy Deluxe Bowl: handcrafted smoky crispy.",
+    "ingredients": [
+      "beef patty",
+      "cheddar",
+      "gochujang",
+      "tofu",
+      "lettuce",
+      "brioche bun"
+    ],
+    "price": 4.99,
+    "calories": 661,
+    "prep_time": "7 mins",
+    "dietary_tags": [
+      "vegan",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 77,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Spicy Deluxe Bowl beef patty, cheddar, gochujang, tofu, lettuce, brioche bun",
+    "image_url": "https://picsum.photos/seed/FF068/400/300"
+  },
+  {
+    "product_id": "FF069",
+    "name": "Zesty Garden Bowl",
+    "category": "Breakfast",
+    "description": "Zesty Garden Bowl: with a kick handcrafted Bold flavors.",
+    "ingredients": [
+      "bacon",
+      "mozzarella",
+      "lettuce",
+      "chicken"
+    ],
+    "price": 4.32,
+    "calories": 631,
+    "prep_time": "16 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 79,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "Zesty Garden Bowl bacon, mozzarella, lettuce, chicken",
+    "image_url": "https://picsum.photos/seed/FF069/400/300"
+  },
+  {
+    "product_id": "FF070",
+    "name": "Crispy Garden Wrap",
+    "category": "Salads",
+    "description": "Crispy Garden Wrap: smoky Bold flavors with a kick.",
+    "ingredients": [
+      "gochujang",
+      "kimchi",
+      "lime crema"
+    ],
+    "price": 14.1,
+    "calories": 288,
+    "prep_time": "11 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 46,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Crispy Garden Wrap gochujang, kimchi, lime crema",
+    "image_url": "https://picsum.photos/seed/FF070/400/300"
+  },
+  {
+    "product_id": "FF071",
+    "name": "Fire Cheese Sandwich",
+    "category": "Beverages",
+    "description": "Fire Cheese Sandwich: crispy smoky perfect for sharing.",
+    "ingredients": [
+      "gochujang",
+      "lettuce",
+      "lime crema",
+      "kimchi",
+      "chicken",
+      "brioche bun"
+    ],
+    "price": 5.98,
+    "calories": 526,
+    "prep_time": "15 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "healthy"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 23,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "Fire Cheese Sandwich gochujang, lettuce, lime crema, kimchi, chicken, brioche bun",
+    "image_url": "https://picsum.photos/seed/FF071/400/300"
+  },
+  {
+    "product_id": "FF072",
+    "name": "Classic Garden Bowl",
+    "category": "Sides & Appetizers",
+    "description": "Classic Garden Bowl: crispy Bold flavors handcrafted.",
+    "ingredients": [
+      "mozzarella",
+      "lettuce",
+      "beef patty",
+      "chicken",
+      "brioche bun"
+    ],
+    "price": 13.63,
+    "calories": 586,
+    "prep_time": "19 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "quick",
+      "healthy"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 14,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Classic Garden Bowl mozzarella, lettuce, beef patty, chicken, brioche bun",
+    "image_url": "https://picsum.photos/seed/FF072/400/300"
+  },
+  {
+    "product_id": "FF073",
+    "name": "Smoky BBQ Tacos",
+    "category": "Beverages",
+    "description": "Smoky BBQ Tacos: handcrafted Bold flavors with a kick.",
+    "ingredients": [
+      "lime crema",
+      "gochujang",
+      "brioche bun",
+      "lettuce"
+    ],
+    "price": 10.12,
+    "calories": 730,
+    "prep_time": "10 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "quick"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 73,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 5,
+    "image_prompt": "Smoky BBQ Tacos lime crema, gochujang, brioche bun, lettuce",
+    "image_url": "https://picsum.photos/seed/FF073/400/300"
+  },
+  {
+    "product_id": "FF074",
+    "name": "Smoky Cheese Burger",
+    "category": "Pizza",
+    "description": "Smoky Cheese Burger: with a kick perfect for sharing crispy.",
+    "ingredients": [
+      "tomato",
+      "chicken",
+      "jalape\u00f1o",
+      "pork"
+    ],
+    "price": 16.39,
+    "calories": 870,
+    "prep_time": "7 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 80,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "Smoky Cheese Burger tomato, chicken, jalape\u00f1o, pork",
+    "image_url": "https://picsum.photos/seed/FF074/400/300"
+  },
+  {
+    "product_id": "FF075",
+    "name": "Fire Dragon Pizza",
+    "category": "Fried Chicken",
+    "description": "Fire Dragon Pizza: chef-special with a kick perfect for sharing.",
+    "ingredients": [
+      "jalape\u00f1o",
+      "lettuce",
+      "lime crema",
+      "pork",
+      "cheddar"
+    ],
+    "price": 6.78,
+    "calories": 520,
+    "prep_time": "20 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 77,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 10,
+    "image_prompt": "Fire Dragon Pizza jalape\u00f1o, lettuce, lime crema, pork, cheddar",
+    "image_url": "https://picsum.photos/seed/FF075/400/300"
+  },
+  {
+    "product_id": "FF076",
+    "name": "Spicy Ranch Pizza",
+    "category": "Limited Time Specials",
+    "description": "Spicy Ranch Pizza: tender crispy smoky.",
+    "ingredients": [
+      "lime crema",
+      "beef patty",
+      "chicken",
+      "tomato",
+      "pork",
+      "kimchi"
+    ],
+    "price": 6.0,
+    "calories": 474,
+    "prep_time": "14 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 20,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 1,
+    "image_prompt": "Spicy Ranch Pizza lime crema, beef patty, chicken, tomato, pork, kimchi",
+    "image_url": "https://picsum.photos/seed/FF076/400/300"
+  },
+  {
+    "product_id": "FF077",
+    "name": "Fire Deluxe Sandwich",
+    "category": "Breakfast",
+    "description": "Fire Deluxe Sandwich: smoky with a kick handcrafted.",
+    "ingredients": [
+      "tomato",
+      "cheddar",
+      "beef patty",
+      "bacon",
+      "chicken"
+    ],
+    "price": 5.99,
+    "calories": 460,
+    "prep_time": "18 mins",
+    "dietary_tags": [
+      "vegan"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "allergens": [],
+    "popularity_score": 89,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "Fire Deluxe Sandwich tomato, cheddar, beef patty, bacon, chicken",
+    "image_url": "https://picsum.photos/seed/FF077/400/300"
+  },
+  {
+    "product_id": "FF078",
+    "name": "Crispy Cheese Tacos",
+    "category": "Breakfast",
+    "description": "Crispy Cheese Tacos: with a kick smoky handcrafted.",
+    "ingredients": [
+      "pork",
+      "jalape\u00f1o",
+      "brioche bun"
+    ],
+    "price": 14.26,
+    "calories": 459,
+    "prep_time": "15 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 50,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 4,
+    "image_prompt": "Crispy Cheese Tacos pork, jalape\u00f1o, brioche bun",
+    "image_url": "https://picsum.photos/seed/FF078/400/300"
+  },
+  {
+    "product_id": "FF079",
+    "name": "Zesty Garden Wrap",
+    "category": "Desserts",
+    "description": "Zesty Garden Wrap: tender chef-special handcrafted.",
+    "ingredients": [
+      "beef patty",
+      "kimchi",
+      "brioche bun"
+    ],
+    "price": 16.16,
+    "calories": 677,
+    "prep_time": "15 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "comfort"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 83,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "Zesty Garden Wrap beef patty, kimchi, brioche bun",
+    "image_url": "https://picsum.photos/seed/FF079/400/300"
+  },
+  {
+    "product_id": "FF080",
+    "name": "Zesty Deluxe Bowl",
+    "category": "Fried Chicken",
+    "description": "Zesty Deluxe Bowl: perfect for sharing crispy smoky.",
+    "ingredients": [
+      "beef patty",
+      "tomato",
+      "kimchi",
+      "jalape\u00f1o",
+      "cheddar"
+    ],
+    "price": 19.93,
+    "calories": 628,
+    "prep_time": "5 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "party"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 23,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Zesty Deluxe Bowl beef patty, tomato, kimchi, jalape\u00f1o, cheddar",
+    "image_url": "https://picsum.photos/seed/FF080/400/300"
+  },
+  {
+    "product_id": "FF081",
+    "name": "Spicy Dragon Wrap",
+    "category": "Beverages",
+    "description": "Spicy Dragon Wrap: with a kick chef-special crispy.",
+    "ingredients": [
+      "tomato",
+      "cheddar",
+      "mozzarella",
+      "lettuce",
+      "chicken"
+    ],
+    "price": 9.84,
+    "calories": 560,
+    "prep_time": "16 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "quick",
+      "healthy"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 28,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 6,
+    "image_prompt": "Spicy Dragon Wrap tomato, cheddar, mozzarella, lettuce, chicken",
+    "image_url": "https://picsum.photos/seed/FF081/400/300"
+  },
+  {
+    "product_id": "FF082",
+    "name": "Classic Garden Sandwich",
+    "category": "Breakfast",
+    "description": "Classic Garden Sandwich: perfect for sharing with a kick smoky.",
+    "ingredients": [
+      "pork",
+      "brioche bun",
+      "cheddar",
+      "kimchi",
+      "bacon"
+    ],
+    "price": 4.71,
+    "calories": 290,
+    "prep_time": "14 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "indulgent"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 70,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Classic Garden Sandwich pork, brioche bun, cheddar, kimchi, bacon",
+    "image_url": "https://picsum.photos/seed/FF082/400/300"
+  },
+  {
+    "product_id": "FF083",
+    "name": "Fusion Deluxe Bowl",
+    "category": "Pizza",
+    "description": "Fusion Deluxe Bowl: chef-special handcrafted with a kick.",
+    "ingredients": [
+      "cheddar",
+      "jalape\u00f1o",
+      "pork"
+    ],
+    "price": 13.33,
+    "calories": 892,
+    "prep_time": "12 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 14,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 6,
+    "image_prompt": "Fusion Deluxe Bowl cheddar, jalape\u00f1o, pork",
+    "image_url": "https://picsum.photos/seed/FF083/400/300"
+  },
+  {
+    "product_id": "FF084",
+    "name": "Smoky Cheese Sandwich",
+    "category": "Tacos & Wraps",
+    "description": "Smoky Cheese Sandwich: chef-special crispy handcrafted.",
+    "ingredients": [
+      "lime crema",
+      "tofu",
+      "tomato",
+      "gochujang"
+    ],
+    "price": 11.05,
+    "calories": 578,
+    "prep_time": "19 mins",
+    "dietary_tags": [
+      "vegetarian",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "party",
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 78,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Smoky Cheese Sandwich lime crema, tofu, tomato, gochujang",
+    "image_url": "https://picsum.photos/seed/FF084/400/300"
+  },
+  {
+    "product_id": "FF085",
+    "name": "Fire Garden Bowl",
+    "category": "Sides & Appetizers",
+    "description": "Fire Garden Bowl: chef-special tender crispy.",
+    "ingredients": [
+      "gochujang",
+      "jalape\u00f1o",
+      "tomato",
+      "lime crema",
+      "kimchi",
+      "cheddar"
+    ],
+    "price": 11.74,
+    "calories": 402,
+    "prep_time": "9 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "party",
+      "comfort"
+    ],
+    "allergens": [],
+    "popularity_score": 47,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 9,
+    "image_prompt": "Fire Garden Bowl gochujang, jalape\u00f1o, tomato, lime crema, kimchi, cheddar",
+    "image_url": "https://picsum.photos/seed/FF085/400/300"
+  },
+  {
+    "product_id": "FF086",
+    "name": "Spicy Deluxe Tacos",
+    "category": "Pizza",
+    "description": "Spicy Deluxe Tacos: Bold flavors perfect for sharing tender.",
+    "ingredients": [
+      "tofu",
+      "beef patty",
+      "mozzarella",
+      "lime crema"
+    ],
+    "price": 18.77,
+    "calories": 821,
+    "prep_time": "15 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "comfort",
+      "adventurous"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 70,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 5,
+    "image_prompt": "Spicy Deluxe Tacos tofu, beef patty, mozzarella, lime crema",
+    "image_url": "https://picsum.photos/seed/FF086/400/300"
+  },
+  {
+    "product_id": "FF087",
+    "name": "Spicy Garden Bowl",
+    "category": "Burgers",
+    "description": "Spicy Garden Bowl: Bold flavors handcrafted tender.",
+    "ingredients": [
+      "kimchi",
+      "mozzarella",
+      "beef patty",
+      "chicken",
+      "cheddar"
+    ],
+    "price": 19.64,
+    "calories": 311,
+    "prep_time": "10 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 14,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "Spicy Garden Bowl kimchi, mozzarella, beef patty, chicken, cheddar",
+    "image_url": "https://picsum.photos/seed/FF087/400/300"
+  },
+  {
+    "product_id": "FF088",
+    "name": "Classic Ranch Bowl",
+    "category": "Salads",
+    "description": "Classic Ranch Bowl: perfect for sharing with a kick crispy.",
+    "ingredients": [
+      "pork",
+      "lime crema",
+      "jalape\u00f1o",
+      "kimchi",
+      "tofu",
+      "chicken"
+    ],
+    "price": 18.98,
+    "calories": 446,
+    "prep_time": "10 mins",
+    "dietary_tags": [
+      "vegan",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "indulgent",
+      "healthy"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 11,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "Classic Ranch Bowl pork, lime crema, jalape\u00f1o, kimchi, tofu, chicken",
+    "image_url": "https://picsum.photos/seed/FF088/400/300"
+  },
+  {
+    "product_id": "FF089",
+    "name": "Classic Ranch Burger",
+    "category": "Limited Time Specials",
+    "description": "Classic Ranch Burger: smoky tender handcrafted.",
+    "ingredients": [
+      "pork",
+      "tomato",
+      "jalape\u00f1o"
+    ],
+    "price": 16.11,
+    "calories": 329,
+    "prep_time": "19 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "healthy"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 44,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 10,
+    "image_prompt": "Classic Ranch Burger pork, tomato, jalape\u00f1o",
+    "image_url": "https://picsum.photos/seed/FF089/400/300"
+  },
+  {
+    "product_id": "FF090",
+    "name": "Fusion Ranch Tacos",
+    "category": "Limited Time Specials",
+    "description": "Fusion Ranch Tacos: crispy tender handcrafted.",
+    "ingredients": [
+      "bacon",
+      "chicken",
+      "mozzarella",
+      "kimchi",
+      "gochujang"
+    ],
+    "price": 8.17,
+    "calories": 518,
+    "prep_time": "19 mins",
+    "dietary_tags": [
+      "vegan",
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "party",
+      "quick"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 87,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Fusion Ranch Tacos bacon, chicken, mozzarella, kimchi, gochujang",
+    "image_url": "https://picsum.photos/seed/FF090/400/300"
+  },
+  {
+    "product_id": "FF091",
+    "name": "Zesty Garden Sandwich",
+    "category": "Salads",
+    "description": "Zesty Garden Sandwich: tender smoky chef-special.",
+    "ingredients": [
+      "cheddar",
+      "chicken",
+      "beef patty"
+    ],
+    "price": 16.82,
+    "calories": 373,
+    "prep_time": "9 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "quick",
+      "indulgent"
+    ],
+    "allergens": [],
+    "popularity_score": 31,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "Zesty Garden Sandwich cheddar, chicken, beef patty",
+    "image_url": "https://picsum.photos/seed/FF091/400/300"
+  },
+  {
+    "product_id": "FF092",
+    "name": "Smoky Dragon Wrap",
+    "category": "Pizza",
+    "description": "Smoky Dragon Wrap: smoky chef-special Bold flavors.",
+    "ingredients": [
+      "jalape\u00f1o",
+      "cheddar",
+      "beef patty",
+      "lime crema",
+      "tomato",
+      "kimchi"
+    ],
+    "price": 7.28,
+    "calories": 747,
+    "prep_time": "11 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "quick"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 84,
+    "chef_special": true,
+    "limited_time": false,
+    "spice_level": 10,
+    "image_prompt": "Smoky Dragon Wrap jalape\u00f1o, cheddar, beef patty, lime crema, tomato, kimchi",
+    "image_url": "https://picsum.photos/seed/FF092/400/300"
+  },
+  {
+    "product_id": "FF093",
+    "name": "Smoky Deluxe Sandwich",
+    "category": "Pizza",
+    "description": "Smoky Deluxe Sandwich: crispy with a kick perfect for sharing.",
+    "ingredients": [
+      "gochujang",
+      "brioche bun",
+      "jalape\u00f1o",
+      "lettuce",
+      "mozzarella",
+      "chicken"
+    ],
+    "price": 19.9,
+    "calories": 220,
+    "prep_time": "8 mins",
+    "dietary_tags": [
+      "contains_gluten",
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [
+      "gluten",
+      "dairy"
+    ],
+    "popularity_score": 32,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "Smoky Deluxe Sandwich gochujang, brioche bun, jalape\u00f1o, lettuce, mozzarella, chicken",
+    "image_url": "https://picsum.photos/seed/FF093/400/300"
+  },
+  {
+    "product_id": "FF094",
+    "name": "Zesty Deluxe Wrap",
+    "category": "Fried Chicken",
+    "description": "Zesty Deluxe Wrap: Bold flavors handcrafted chef-special.",
+    "ingredients": [
+      "gochujang",
+      "pork",
+      "kimchi",
+      "tofu",
+      "chicken",
+      "beef patty"
+    ],
+    "price": 17.35,
+    "calories": 924,
+    "prep_time": "7 mins",
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "mood_tags": [
+      "comfort",
+      "party"
+    ],
+    "allergens": [],
+    "popularity_score": 22,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 3,
+    "image_prompt": "Zesty Deluxe Wrap gochujang, pork, kimchi, tofu, chicken, beef patty",
+    "image_url": "https://picsum.photos/seed/FF094/400/300"
+  },
+  {
+    "product_id": "FF095",
+    "name": "Fusion Deluxe Pizza",
+    "category": "Burgers",
+    "description": "Fusion Deluxe Pizza: tender crispy handcrafted.",
+    "ingredients": [
+      "tofu",
+      "bacon",
+      "cheddar",
+      "gochujang",
+      "lettuce"
+    ],
+    "price": 15.84,
+    "calories": 561,
+    "prep_time": "12 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "quick"
+    ],
+    "allergens": [],
+    "popularity_score": 62,
+    "chef_special": false,
+    "limited_time": true,
+    "spice_level": 3,
+    "image_prompt": "Fusion Deluxe Pizza tofu, bacon, cheddar, gochujang, lettuce",
+    "image_url": "https://picsum.photos/seed/FF095/400/300"
+  },
+  {
+    "product_id": "FF096",
+    "name": "Crispy Ranch Tacos",
+    "category": "Limited Time Specials",
+    "description": "Crispy Ranch Tacos: smoky chef-special with a kick.",
+    "ingredients": [
+      "brioche bun",
+      "pork",
+      "kimchi",
+      "tomato",
+      "lettuce",
+      "lime crema"
+    ],
+    "price": 14.01,
+    "calories": 587,
+    "prep_time": "9 mins",
+    "dietary_tags": [
+      "vegan",
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "quick",
+      "indulgent"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 69,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 2,
+    "image_prompt": "Crispy Ranch Tacos brioche bun, pork, kimchi, tomato, lettuce, lime crema",
+    "image_url": "https://picsum.photos/seed/FF096/400/300"
+  },
+  {
+    "product_id": "FF097",
+    "name": "Fusion Garden Burger",
+    "category": "Desserts",
+    "description": "Fusion Garden Burger: handcrafted perfect for sharing smoky.",
+    "ingredients": [
+      "beef patty",
+      "kimchi",
+      "brioche bun",
+      "mozzarella"
+    ],
+    "price": 12.47,
+    "calories": 547,
+    "prep_time": "11 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "adventurous",
+      "quick"
+    ],
+    "allergens": [],
+    "popularity_score": 71,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 8,
+    "image_prompt": "Fusion Garden Burger beef patty, kimchi, brioche bun, mozzarella",
+    "image_url": "https://picsum.photos/seed/FF097/400/300"
+  },
+  {
+    "product_id": "FF098",
+    "name": "Zesty BBQ Wrap",
+    "category": "Sides & Appetizers",
+    "description": "Zesty BBQ Wrap: perfect for sharing smoky with a kick.",
+    "ingredients": [
+      "brioche bun",
+      "tofu",
+      "lime crema",
+      "gochujang"
+    ],
+    "price": 7.38,
+    "calories": 344,
+    "prep_time": "16 mins",
+    "dietary_tags": [],
+    "mood_tags": [
+      "party"
+    ],
+    "allergens": [],
+    "popularity_score": 49,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 0,
+    "image_prompt": "Zesty BBQ Wrap brioche bun, tofu, lime crema, gochujang",
+    "image_url": "https://picsum.photos/seed/FF098/400/300"
+  },
+  {
+    "product_id": "FF099",
+    "name": "Fusion Garden Sandwich",
+    "category": "Salads",
+    "description": "Fusion Garden Sandwich: chef-special crispy handcrafted.",
+    "ingredients": [
+      "bacon",
+      "pork",
+      "beef patty",
+      "kimchi"
+    ],
+    "price": 5.57,
+    "calories": 889,
+    "prep_time": "11 mins",
+    "dietary_tags": [
+      "contains_dairy"
+    ],
+    "mood_tags": [
+      "adventurous",
+      "quick"
+    ],
+    "allergens": [
+      "dairy"
+    ],
+    "popularity_score": 52,
+    "chef_special": false,
+    "limited_time": false,
+    "spice_level": 7,
+    "image_prompt": "Fusion Garden Sandwich bacon, pork, beef patty, kimchi",
+    "image_url": "https://picsum.photos/seed/FF099/400/300"
+  },
+  {
+    "product_id": "FF100",
+    "name": "Spicy Garden Bowl",
+    "category": "Tacos & Wraps",
+    "description": "Spicy Garden Bowl: Bold flavors smoky perfect for sharing.",
+    "ingredients": [
+      "pork",
+      "tomato",
+      "bacon",
+      "lime crema",
+      "jalape\u00f1o"
+    ],
+    "price": 12.8,
+    "calories": 851,
+    "prep_time": "7 mins",
+    "dietary_tags": [
+      "contains_gluten"
+    ],
+    "mood_tags": [
+      "healthy",
+      "comfort"
+    ],
+    "allergens": [
+      "gluten"
+    ],
+    "popularity_score": 95,
+    "chef_special": true,
+    "limited_time": true,
+    "spice_level": 7,
+    "image_prompt": "Spicy Garden Bowl pork, tomato, bacon, lime crema, jalape\u00f1o",
+    "image_url": "https://picsum.photos/seed/FF100/400/300"
+  }
+]
