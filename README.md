@@ -1,4 +1,4 @@
-FoodieBot — Fast-Food Recommendation & Chat System
+🍔 FoodieBot — Fast-Food Recommendation & Chat System
 Project Overview
 
 FoodieBot is an interactive system that allows users to chat with a recommendation bot, search products, and view personalized suggestions based on preferences, dietary restrictions, budget, and mood. It also provides an admin panel and basic analytics.
@@ -19,19 +19,19 @@ Project Structure
 
 Files:
 
-generate_products.py — Generates 100 sample fast-food products into products.json.
+generate_products.py → Generates 100 sample fast-food products into products.json.
 
-db_setup.py — Creates SQLite DB (products.db) and populates products table.
+db_setup.py → Creates SQLite DB (products.db) and populates products table.
 
-app.py — FastAPI backend with chat, search, admin, analytics endpoints.
+app.py → FastAPI backend with chat, search, admin, analytics endpoints.
 
-streamlit_app.py — Streamlit frontend UI for chat, search, admin, analytics.
+streamlit_app.py → Streamlit frontend UI for chat, search, admin, analytics.
 
-products.json — Generated sample product data.
+products.json → Generated sample product data.
 
-products.db — SQLite database created by db_setup.py.
+products.db → SQLite database created by db_setup.py.
 
-requirements.txt — Python dependencies.
+requirements.txt → Python dependencies.
 
 Setup Instructions
 
@@ -51,21 +51,21 @@ Generate sample products
 python generate_products.py
 
 
-This creates products.json with 100 sample items.
+Creates products.json with 100 sample items.
 
 Setup the database
 
 python db_setup.py
 
 
-This creates products.db and populates the products table. It also creates tables for conversations and messages.
+Creates products.db and populates the products table. Also sets up tables for conversations and messages.
 
 Run FastAPI backend
 
 uvicorn app:app --reload
 
 
-The API will be available at http://localhost:8000.
+API will be available at http://localhost:8000.
 
 Run Streamlit frontend
 
@@ -75,43 +75,52 @@ streamlit run streamlit_app.py
 Open the local URL provided by Streamlit to interact with the UI.
 
 How It Works
-1. Chat System
+Chat System
 
 Users start a conversation via the sidebar.
 
 Messages are sent to the FastAPI backend.
 
-Signals are extracted from user text (preferences, mood, budget, dietary restrictions).
+Signals are extracted from user text:
 
-Interest score is computed and products are ranked based on match.
+Preferences (spicy, vegan, type of food)
 
-Bot responds with top 6 product suggestions and interest score.
+Mood
 
-2. Search / Filter
+Budget
 
-Search by name/description.
+Dietary restrictions
 
-Filter by category and max price.
+Interest score is computed.
+
+Products are ranked and top suggestions returned.
+
+Search / Filter
+
+Search by name or description.
+
+Filter by category or max price.
 
 Results include popularity score and relevance.
 
-3. Admin Panel
+Admin Panel
 
 Token-protected (default token: letmein).
 
 Create new products with basic details.
 
-4. Analytics
+Analytics
 
-Total products.
+Total products
 
-Total conversations.
+Total conversations
 
-Total messages.
+Total messages
 
-Top 5 products by popularity.
+Top 5 products by popularity
 
 Script Explanations
+
 generate_products.py
 
 Generates 100 fake fast-food products with randomized attributes.
@@ -128,29 +137,29 @@ Sets up tables for conversations and messages.
 
 app.py
 
-FastAPI backend with endpoints:
+FastAPI backend endpoints:
 
-/conversation — start conversation
+/conversation → Start conversation
 
-/conversation/{id}/message — send message and get product matches
+/conversation/{id}/message → Send message & get product matches
 
-/search — search products
+/search → Search products
 
-/admin/product — create product (token required)
+/admin/product → Create product (token required)
 
-/analytics — basic stats
+/analytics → Basic stats
 
 streamlit_app.py
 
 Streamlit frontend interface:
 
-Chat with bot.
+Chat with bot
 
-Search/filter products.
+Search/filter products
 
-Admin panel for product creation.
+Admin panel for product creation
 
-Analytics tab.
+Analytics tab
 
 Usage Example
 
@@ -164,12 +173,10 @@ Open Streamlit UI:
 streamlit run streamlit_app.py
 
 
-Start a conversation, send messages like:
+Start a conversation and send messages like:
 
 "I want a spicy burger under $10"
 
-
-Bot responds with top product suggestions and interest score.
 
 Use search tab to filter products by category or price.
 
@@ -182,3 +189,14 @@ Products use placeholder images from picsum.photos.
 Interest scoring is rule-based (simple heuristics).
 
 This project is a prototype for internship assessment and demo purposes.
+
+Workflow Diagram (ASCII)
+User
+  │
+  ▼
+Streamlit UI ───► FastAPI Backend ──► SQLite DB
+  │                  │
+  │                  └──► Products Table
+  │                  └──► Conversations & Messages
+  ▼
+Bot Response
