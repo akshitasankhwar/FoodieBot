@@ -1,49 +1,78 @@
-# FoodieBot — Fast-Food Recommendation & Chat System
+FoodieBot — Fast-Food Recommendation & Chat System
+Project Overview
 
-## Project Overview
 FoodieBot is an interactive system that allows users to chat with a recommendation bot, search products, and view personalized suggestions based on preferences, dietary restrictions, budget, and mood. It also provides an admin panel and basic analytics.
 
-**Features:**
-- Live chat with FoodieBot
-- Product search and filtering
-- Interest scoring of user messages
-- Admin panel to create products
-- Analytics: top products, total conversations, messages
+Features:
 
----
+Live chat with FoodieBot
 
-## Project Structure
-FoodieBot/
-├─ generate_products.py # Generates 100 sample fast-food products into products.json
-├─ db_setup.py # Creates SQLite DB (products.db) and populates products table
-├─ app.py # FastAPI backend with chat, search, admin, analytics endpoints
-├─ streamlit_app.py # Streamlit frontend UI for chat, search, admin, analytics
-├─ products.json # Generated sample product data
-├─ products.db # SQLite database created by db_setup.py
-└─ requirements.txt # Python dependencies
+Product search and filtering
 
----
+Interest scoring of user messages
 
-## Setup Instructions
+Admin panel to create products
 
-1. **Clone the project**  
-```bash
+Analytics: top products, total conversations, messages
+
+Project Structure
+
+Files:
+
+generate_products.py — Generates 100 sample fast-food products into products.json.
+
+db_setup.py — Creates SQLite DB (products.db) and populates products table.
+
+app.py — FastAPI backend with chat, search, admin, analytics endpoints.
+
+streamlit_app.py — Streamlit frontend UI for chat, search, admin, analytics.
+
+products.json — Generated sample product data.
+
+products.db — SQLite database created by db_setup.py.
+
+requirements.txt — Python dependencies.
+
+Setup Instructions
+
+Clone the project
+
 git clone <your_repo_url>
 cd FoodieBot
 
+
+Install dependencies
+
 pip install -r requirements.txt
 
+
+Generate sample products
+
 python generate_products.py
-#this creates products.json with 100 sample items.
+
+
+This creates products.json with 100 sample items.
+
+Setup the database
 
 python db_setup.py
-#This creates products.db and populates the products table. It also creates tables for conversations and messages.
+
+
+This creates products.db and populates the products table. It also creates tables for conversations and messages.
+
+Run FastAPI backend
 
 uvicorn app:app --reload
-#The API will be available at http://localhost:8000.
+
+
+The API will be available at http://localhost:8000.
+
+Run Streamlit frontend
 
 streamlit run streamlit_app.py
-#Open the local URL provided by Streamlit to interact with the UI.
+
+
+Open the local URL provided by Streamlit to interact with the UI.
 
 How It Works
 1. Chat System
@@ -60,27 +89,27 @@ Bot responds with top 6 product suggestions and interest score.
 
 2. Search / Filter
 
-Search by name/description
+Search by name/description.
 
-Filter by category and max price
+Filter by category and max price.
 
-Results include popularity score and relevance
+Results include popularity score and relevance.
 
 3. Admin Panel
 
-Token-protected (default token: letmein)
+Token-protected (default token: letmein).
 
-Create new products with basic details
+Create new products with basic details.
 
 4. Analytics
 
-Total products
+Total products.
 
-Total conversations
+Total conversations.
 
-Total messages
+Total messages.
 
-Top 5 products by popularity
+Top 5 products by popularity.
 
 Script Explanations
 generate_products.py
@@ -115,13 +144,13 @@ streamlit_app.py
 
 Streamlit frontend interface:
 
-Chat with bot
+Chat with bot.
 
-Search/filter products
+Search/filter products.
 
-Admin panel for product creation
+Admin panel for product creation.
 
-Analytics tab
+Analytics tab.
 
 Usage Example
 
@@ -153,10 +182,3 @@ Products use placeholder images from picsum.photos.
 Interest scoring is rule-based (simple heuristics).
 
 This project is a prototype for internship assessment and demo purposes.
-
-
----
-
-If you want, I can also make a **nice small diagram workflow** in ASCII or image form that you can directly add into this README to make it more professional for submission.  
-
-Do you want me to do that?
