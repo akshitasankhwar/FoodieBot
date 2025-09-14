@@ -37,7 +37,7 @@ Setup Instructions
 
 Clone the project
 
-git clone <your_repo_url>
+git clone https://github.com/akshitasankhwar/FoodieBot.git
 cd FoodieBot
 
 
